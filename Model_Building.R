@@ -162,5 +162,3 @@ grid <- sim4 %>%
   ) %>%
   gather_predictions(mod1,mod2)
 
-grid
-
